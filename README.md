@@ -1,3 +1,4 @@
+![Header](https://github.com/NikChief/nikchief/blob/main/assets/software-computer-code-1940x900_35196cut.png)
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">Fullstack Developer</h3>
 
