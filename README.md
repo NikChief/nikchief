@@ -2,11 +2,12 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 📫 How to reach me **nikchief56@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 📫:</h3>
 <p align="left">
-<a href="https://instagram.com/nikita_vyacheslavovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikita_vyacheslavovich" height="30" width="40" /></a>
+<a href="https://instagram.com/nikita_vyacheslavovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikita-shevchenko-" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikita-shevchenko-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-shevchenko-" height="30" width="40" /></a>
+<a href="https://t.me/NikChief" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="nikita-shevchenko-" height="30" width="40" /></a>
+  <a href="mailto:nikchief56@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-768x432.png" alt="nikita-shevchenko-" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
